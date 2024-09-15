@@ -40,4 +40,7 @@
         index.css içerisine ekleyin:
         @tailwind base;
         @tailwind components;
-        @tailwind utilities;# AlisverisSepeti_ReduxToolkit
+        @tailwind utilities;
+
+  # AlisverisSepeti_ReduxToolkit
+![Zight Recording 2024-09-16 at 12 24 38 AM](https://github.com/user-attachments/assets/33026867-c431-4f14-8920-29708fd186a1)
